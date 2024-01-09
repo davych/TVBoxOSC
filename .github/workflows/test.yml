@@ -28,8 +28,8 @@ jobs:
           - userName: q215613905
             repoName: TVBoxOS
             branchName: main
-          - userName: takagen99
-            repoName: Box
+          - userName: CatVodTVOfficial
+            repoName: TVBoxOSC
             branchName: main
     steps:
       - name: Checkout
